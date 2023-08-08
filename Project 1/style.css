@@ -1,9 +1,8 @@
 .container {
     background-color: #e5e5e5;
-    min-height: 100vh;
     border: 5px solid#1D1E4C;
-    margin-left: 250px;
-    margin-right: 190px;
+    margin-left: 500px;
+    margin-right: 350px;
     padding-bottom: 20px;
 }
 
@@ -13,7 +12,7 @@
 }
 
 .top_section {
-    margin-top: 60px;
+    margin-top: 40px;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
@@ -43,7 +42,7 @@ img {
 }
 
 .about_section {
-    margin-top: 50px;
+    margin-top: 10px;
 }
 
 .about_section h2 {

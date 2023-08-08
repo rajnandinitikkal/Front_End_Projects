@@ -1,13 +1,10 @@
-.m {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 .container {
     background-color: #e5e5e5;
     min-height: 100vh;
-    border: 10px solid#1D1E4C;
+    border: 5px solid#1D1E4C;
+    margin-left: 250px;
+    margin-right: 190px;
+    padding-bottom: 20px;
 }
 
 .content {
@@ -16,7 +13,7 @@
 }
 
 .top_section {
-    margin-top: 100px;
+    margin-top: 60px;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
